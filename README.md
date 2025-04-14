@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro Cicilini de Nadai
 - 👀 I’m interested in anything about the technology world
-- 🌱 I’m currently learning about Data Scientist and Data Analytics
+- 🌱 I’m currently learning about data scientist and data analytics
 - 💞️ I’m looking to collaborate on community
 - 📫 How to reach me: pcicilini@hotmail.com
 - 😄 Pronouns: he/him
