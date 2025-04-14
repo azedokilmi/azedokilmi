@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @azedokilmi
-- 👀 I’m interested in anything about the developer world
-- 🌱 I’m currently learning Data Scientist
+- 👋 Hi, I’m Pedro Cicilini de Nadai
+- 👀 I’m interested in anything about the technology world
+- 🌱 I’m currently learning about Data Scientist and Data Analytics
 - 💞️ I’m looking to collaborate on community
 - 📫 How to reach me: pcicilini@hotmail.com
 - 😄 Pronouns: he/him
